@@ -1,0 +1,7 @@
+C:\Users\green\source\repos\ArithmeticOptionSharp\ArithmeticOptionSharp\bin\Debug\ArithmeticOptionSharp.exe.config
+C:\Users\green\source\repos\ArithmeticOptionSharp\ArithmeticOptionSharp\bin\Debug\ArithmeticOptionSharp.exe
+C:\Users\green\source\repos\ArithmeticOptionSharp\ArithmeticOptionSharp\bin\Debug\ArithmeticOptionSharp.pdb
+C:\Users\green\source\repos\ArithmeticOptionSharp\ArithmeticOptionSharp\obj\Debug\ArithmeticOptionSharp.csprojAssemblyReference.cache
+C:\Users\green\source\repos\ArithmeticOptionSharp\ArithmeticOptionSharp\obj\Debug\ArithmeticOptionSharp.csproj.CoreCompileInputs.cache
+C:\Users\green\source\repos\ArithmeticOptionSharp\ArithmeticOptionSharp\obj\Debug\ArithmeticOptionSharp.exe
+C:\Users\green\source\repos\ArithmeticOptionSharp\ArithmeticOptionSharp\obj\Debug\ArithmeticOptionSharp.pdb
